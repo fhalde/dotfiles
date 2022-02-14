@@ -50,4 +50,3 @@
 ;(unpin! t)
 
 (package! golden-ratio)
-(package! flycheck-clj-kondo)
