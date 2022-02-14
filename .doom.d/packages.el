@@ -51,4 +51,3 @@
 
 (package! golden-ratio)
 (package! flycheck-clj-kondo)
-(package! lsp-mode)
